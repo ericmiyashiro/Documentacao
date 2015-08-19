@@ -1,1 +1,111 @@
 
+
+<Nome do Projeto>
+
+Versão <nn.nn>
+
+ 
+Controle de Versão
+Versão	Controle	Data	Razões para alteração	Responsável
+		dd/mm/aa		
+				
+				
+				
+				
+				
+
+1.	Introdução
+
+1.1.	Objetivo do Documento
+
+
+1.2.	Referências
+
+
+2.	Partes Envolvidas e Usuários
+
+Nome	Descrição	Responsabilidades
+		
+		
+		
+		
+3.	Posicionamento
+
+3.1.	Sentença do Problema
+O problema	
+Pessoas/Áreas afetadas	
+O impacto disso é	 
+Uma solução de sucesso permitiria	 
+
+3.2.	Visão da Situação Atual
+
+3.3.	Necessidades dos Envolvidos
+
+4.	Características funcionais
+Descrição 
+
+4.01 - Quem serão os usuários?
+
+
+
+
+
+
+
+
+4.02 - Qual a disponibilidade esperada? 
+
+	(  )	Horário comercial. ( 8:00 as 19:00, Seg a Sex )
+	(  )	Processamento Noturno (Batchs) . ( 18:00 às 7:00, Seg a Sex )
+	(  )	Tempo integral. ( 24hs, 7 dias por semana )
+	(  )	Somente Final de Semana (Sábado e Domingo)
+	(  )	È esperada uma utilização avulsa e  sob demanda.
+
+4.03 - Quantos usuários são previstos ?   
+
+	(  )	zero - 50.
+	(  )	51 a 100.
+	(  )	101 a 500.
+	(  )	501 a 1000.
+	(  )	1001 a 5000.
+	(  )	acima de 5000.
+	
+4.05 - Como você qualifica a sua necessidade em relação aos sistemas existentes? 
+
+	(  )	Uma melhoria do sistema existente.
+	(  )	A substituição do sistema atual.
+	(  )	A criação de um sistema.
+	(  )	A aquisição de um programa de mercado.
+	(  )	A mecanização de um processo que hoje é feito manualmente.
+	(  )	A mecanização de um processo novo.
+
+4.06 - É prevista a utilização de informações históricas?
+	
+	(  )	Não.
+	(  )	Sim dos últimos 12 meses.
+	(  )	Sim dos últimos 24 meses.
+	(  )	Sim de mais de 24 meses.
+
+4.08 - De que maneira os usuários farão uso desta solução
+  
+	(  )	Telefone.
+	(  )	Computadores locais.
+	(  )	Internet.
+	(  )	Dispositivos móveis. (notebook, Palm ou Celulares) com conexão Online
+	(  )	Dispositivos móveis. (notebook, Palm ou Celulares) com sincronismo periódico de informações.
+
+4.09 - Qual a previsão do número de páginas de relatórios impressas diariamente pela solução?
+ 
+	(  )	Não haverá impressão.
+	(  )	0 a 1000.
+	(  )	1001 a 5000.
+	(  )	acima de 5000.
+
+4.11 - Que tratamento é esperado após a implementação? 
+   
+.	(  )	Suporte padrão. (Help Desk)
+	(  )	Atendimento e suporte por empresa terceira
+	(  )	Aplicação de responsabilidade dos usuários.
+	(  )	Não haverá necessidade de suporte.
+
+5.	Premissas e Restrições
